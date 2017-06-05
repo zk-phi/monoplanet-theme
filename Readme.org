@@ -1,0 +1,19 @@
+* monoplanet-theme.el
+
+a solarized-based dark theme with "planet" colors but less colorful
+
+- js
+
+[[img/js.png]]
+
+- lisp (with =rainbow-delimiters=)
+
+[[img/lisp.png]]
+
+** Supported Plug-ins
+
+All plug-ins that `color-theme-solarized` supports.
+
+** Dependencies
+
+- [[https://github.com/sellout/emacs-color-theme-solarized][color-theme-solarized]]
